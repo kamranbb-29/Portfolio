@@ -1,0 +1,9 @@
+POST http://localhost:5000/api/contact
+Content-Type: application/json
+
+{
+  "name": "Kamran",
+  "email": "test@example.com",
+  "subject": "Portfolio Test",
+  "message": "Testing the contact form with Resend."
+}
