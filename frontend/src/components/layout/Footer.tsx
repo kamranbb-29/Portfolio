@@ -31,7 +31,7 @@ export const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://www.linkedin.com/in/kamran-bilal-bhat"
+                  href="https://www.linkedin.com/in/kamran-bilal-bhat-7472b03a9"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[#999] hover:text-matrix-400 transition-colors"
