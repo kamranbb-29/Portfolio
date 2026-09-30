@@ -21,7 +21,7 @@ export const Footer = () => {
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  href="https://github.com/kamranbb29"
+                  href="https://github.com/kamranbb-29"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[#999] hover:text-matrix-400 transition-colors"
@@ -31,7 +31,7 @@ export const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://www.linkedin.com/in/kamranbb29"
+                  href="https://www.linkedin.com/in/kamran-bilal-bhat"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-[#999] hover:text-matrix-400 transition-colors"
